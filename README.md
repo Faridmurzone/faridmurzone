@@ -13,3 +13,4 @@
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=faridmurzone&count_private=true&show_icons=true&theme=transparent)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=faridmurzone)](https://github.com/anuraghazra/github-readme-stats)
